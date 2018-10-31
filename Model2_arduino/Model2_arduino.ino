@@ -4,7 +4,7 @@
 #define pHpin        A2  //土壤酸鹼  
 #define MoisturePin  A3  //土壤濕度  
 #define SoilTEMPpin  A4  //土壤溫度
-#define SoilECpin        A5  //EC
+#define SoilECpin    A5  //EC
 #define BugPin       7   //蟲罐      
 
 int BugCounter = 0;
